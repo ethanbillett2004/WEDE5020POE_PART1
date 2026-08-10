@@ -1,2 +1,5 @@
-# WEDE5020POE_PART1
-Web Dev POE Part1
+# my-website
+This is a demo repo on the setup of github.
+
+## WEBSITE DESCRIPTION
+This is a website for..............
