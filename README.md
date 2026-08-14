@@ -98,7 +98,7 @@ Provides contact details, business hours, location, and Google Maps.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/ethanbillett2994/WEDE5020POE_PART1.git
+git clone https://github.com/ethanbillett2004/WEDE5020POE_PART1.git
 ```
 
 2. Open the project folder.
