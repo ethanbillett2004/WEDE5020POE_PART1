@@ -148,9 +148,6 @@ WEDE5020_POE_PART1/
 # Screenshots
 
 Add screenshots of your website here.
-```
-
----
 
 # Author
 
