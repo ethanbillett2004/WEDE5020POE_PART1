@@ -1,10 +1,10 @@
-#Sweet Treats by Abigail
+# Sweet Treats by Abigail
 
 A modern, responsive bakery website developed for **Sweet Treats by Abigail**, a home-based bakery located in **Booysens Park, Gqeberha (Port Elizabeth), South Africa**. The website showcases the bakery's products, provides business information, and allows customers to submit enquiries for custom cake orders.
 
 ---
 
-#Table of Contents
+# Table of Contents
 
 - About the Project
 - Features
@@ -19,7 +19,7 @@ A modern, responsive bakery website developed for **Sweet Treats by Abigail**, a
 
 ---
 
-#About the Project
+# About the Project
 
 Sweet Treats by Abigail is a bakery that specializes in handcrafted cakes and desserts for all occasions. The purpose of this website is to provide an online presence where customers can:
 
@@ -34,7 +34,7 @@ This project was created as part of my **Web Development Portfolio of Evidence (
 
 ---
 
-#Features
+# Features
 
 - Responsive Design
 - Modern Pink Bakery Theme
@@ -49,7 +49,7 @@ This project was created as part of my **Web Development Portfolio of Evidence (
 
 ---
 
-#Products
+# Products
 
 The bakery offers:
 
@@ -64,7 +64,7 @@ The bakery offers:
 
 ---
 
-#Technologies Used
+# Technologies Used
 
 - HTML5
 - CSS3
@@ -74,21 +74,21 @@ The bakery offers:
 
 ---
 
-#Website Pages
+# Website Pages
 
-##Home
+## Home
 Introduces Sweet Treats by Abigail and welcomes visitors with featured products and bakery information.
 
-##About
+## About
 Shares the bakery's story, mission, vision, and passion for baking.
 
-##Products
+## Products
 Displays the bakery's range of cakes and desserts available for order.
 
-##Enquiry
+## Enquiry
 Allows customers to request quotations and enquire about custom orders.
 
-##Contact
+## Contact
 Provides contact details, business hours, location, and Google Maps.
 
 ---
@@ -107,7 +107,7 @@ git clone https://github.com/yourusername/sweet-treats-by-abigail.git
 
 ---
 
-#Project Structure
+# Project Structure
 
 ```
 WEDE5020_POE_PART1/
@@ -132,7 +132,7 @@ WEDE5020_POE_PART1/
 
 ---
 
-#Future Improvements
+# Future Improvements
 
 - Online ordering system
 - Customer login
@@ -145,14 +145,14 @@ WEDE5020_POE_PART1/
 
 ---
 
-#Screenshots
+# Screenshots
 
 Add screenshots of your website here.
 ```
 
 ---
 
-#Author
+# Author
 
 **Ethan Billett**
 
@@ -164,7 +164,7 @@ GitHub: https://github.com/ethanbillett2004
 
 ---
 
-#License
+# License
 
 This project was created for educational purposes as part of the CTU Training Solutions Web Development module.
 
