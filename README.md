@@ -152,6 +152,8 @@ Add screenshots of your website here.
 # Author
 
 **Ethan Billett**
+**ST10518720**
+**ST10518720@RCCONNECT.EDU.ZA**
 
 RoseBank College
 
